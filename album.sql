@@ -1,4 +1,4 @@
-<!--1 mostre el nombre, los compositores y los milisegundos
+1 mostre el nombre, los compositores y los milisegundos
 SELECT name, Composer, City FROM customers 
 
 2 mostre el nombre, apellido, dirección y la ciudad de la tabla cliente
